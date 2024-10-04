@@ -1,9 +1,10 @@
-import React from 'react'
+import React from "react";
+import Chat from "../components/Chat";
 
 const HomePage = () => {
   return (
     <div>
-      
+      <Chat/>
     </div>
   )
 }
